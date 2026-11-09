@@ -70,6 +70,17 @@ I am learning programming, web development, and GitHub version control.
 - CSS
 - JavaScript
 - Git and GitHub
+## Collaboration Log
+
+**Partner Name:** Shreehari
+
+**Partner GitHub:** [@shreeharisk12-hub](https://github.com/shreeharisk12-hub)
+
+**What We Built:**
+Created a C program using the `greet()` function to display a personalized welcome message. The code was committed and pushed to GitHub with partner credit.
+
+**One Thing I Learned:**
+I learned how to create a C function, compile and execute a program, use Git commands to commit and push code, and acknowledge a collaborator in GitHub commit history.
 
 ```text
 /
