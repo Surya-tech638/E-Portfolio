@@ -46,6 +46,31 @@ The design focuses on readability, modern UI/UX trends (dark mode, gradient acce
 
 ## 📂 File Structure
 
+## Projects
+
+### My Portfolio
+This repository contains my academic
+projects and practical work.
+
+I am learning programming, web development,
+and GitHub version control.
+
+## Projects
+
+### My Portfolio
+
+This repository contains my academic projects and practical work.
+
+I am learning programming, web development, and GitHub version control.
+
+### Skills
+- C Programming
+- C++ Programming
+- HTML
+- CSS
+- JavaScript
+- Git and GitHub
+
 ```text
 /
 ├── index.html          # Main HTML document
